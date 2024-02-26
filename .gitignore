@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# add tensorflow extension files
+*.pb
+*.pbtxt
+*.tflite
+*.lite
+*.h5 
