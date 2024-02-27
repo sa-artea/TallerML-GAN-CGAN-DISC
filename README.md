@@ -10,8 +10,8 @@ Para el entrenamiento y optimización de los modelos se utiliza el conjunto MNIS
 
 * **01-CNN-Autoencoder.ipynb:** Código interactivo para entrenar y probar un Autoencoder convolucional de 2 capas.
 * **02-CNN-Classifier.ipynb:** Código interactivo para entrenar y probar un clasificador convolucional de 2 capas y 10 categorías de respuesta.
-* **03-CNN-GAN.ipynb:** Código interactivo para entrenar y probar una red adversaria generativa (GAN) para crear imágenes de prendas de vestir.
-* **04-CNN-Testbed.ipynb:** Código interactivo para probar los modelos entrenados y observar su comportamiento.
+* **03-CNN-FashionGAN.ipynb:** Código interactivo para entrenar y probar una red adversaria generativa (GAN) para crear imágenes de prendas de vestir.
+* **04-CNN-FashionPlayground.ipynb:** Código interactivo para probar los modelos entrenados y observar su comportamiento.
 
 Los modelos entrenados NO cargan en el repositorio por el Gitignore.
 
