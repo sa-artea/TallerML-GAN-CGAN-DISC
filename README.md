@@ -10,8 +10,10 @@ Para el entrenamiento y optimización de los modelos se utiliza el conjunto MNIS
 
 * **01-CNN-Autoencoder.ipynb:** Código interactivo para entrenar y probar un Autoencoder convolucional de 2 capas.
 * **02-CNN-Classifier.ipynb:** Código interactivo para entrenar y probar un clasificador convolucional de 2 capas y 10 categorías de respuesta.
+* **03-CNN-GAN.ipynb:** Código interactivo para entrenar y probar una red adversaria generativa (GAN) para crear imágenes de prendas de vestir.
+* **04-CNN-Testbed.ipynb:** Código interactivo para probar los modelos entrenados y observar su comportamiento.
 
-Los modelos entrenados se guardan en la carpeta _\*\\Models\\..._.
+Los modelos entrenados NO cargan en el repositorio por el Gitignore.
 
 ## Datos
 
@@ -22,17 +24,17 @@ En resumen, el conjunto posee 60.000 ejemplares y un conjunto de pruebas de 10.0
 Las etiquetas son:
 
 | Label | Description |
-| ------------- | ------------- |
-| 0 | T-shirt/top |
-| 1 | Trouser |
-| 2 | Pullover |
-| 3 | Dress |
-| 4 | Coat |
-| 5 | Sandal |
-| 6 | Shirt |
-| 7 | Sneaker |
-| 8 | Bag |
-| 9 | Ankle boot |
+| ----- | ----------- |
+| 0     | T-shirt/top |
+| 1     | Trouser     |
+| 2     | Pullover    |
+| 3     | Dress       |
+| 4     | Coat        |
+| 5     | Sandal      |
+| 6     | Shirt       |
+| 7     | Sneaker     |
+| 8     | Bag         |
+| 9     | Ankle boot  |
 
 ## Configuración
 
@@ -48,4 +50,4 @@ El código también puede ejecutarse en el IDE On-Cloud de [Google Colab](https:
 
 ## Uso
 
-Este es un taller de caracter introductorio que muestra el uso basico de las redes convolucionales o CNN como ejemplo y sustento de las explicaciones del taller de HDIG.
+Este es un taller de caracter introductorio que muestra el uso basico de las redes convolucionales o CNN como ejemplo y sustento de las explicaciones del taller de para el grupo de estudiantil de la ACM e IEEE Uniandino.
