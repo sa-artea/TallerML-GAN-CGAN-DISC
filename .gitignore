@@ -133,4 +133,5 @@ dmypy.json
 *.pbtxt
 *.tflite
 *.lite
-*.h5 
+*.h5
+*.keras
