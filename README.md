@@ -1,6 +1,6 @@
-# Taller ML-CNN-HDIG
+# Taller ML-GANs
 
-Taller introductorio de CNN para la Maestría de Humanidades Digitales en Uniandes, Bogotá D.C. 2021-10.
+Taller introductorio de GAN (Generativa Adversarial Network) para la Universidad de los Andes (Uniandes), Bogotá D.C. 2021-10.
 
 El trabajo consiste en entender cómo funciona tres redes neuronales basadas en convolución. La primera es un Autoencoder o una red para recrear conjuntos de datos. La segunda es un clasificador de prendas. Y la tercera, es un clasificador de prendas capas de remover ignorar errores (remover ruido).
 
